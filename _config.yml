@@ -1,8 +1,16 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: ScienceTo
+description: Website showcasing my works
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://scienceto.com
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+logo: "/assets/images/st-low-resolution-logo-black-on-white-background-128x96-1.png"
+favicon_ico: "/assets/images/st-low-resolution-logo-black-on-white-background-128x96-1.ico"
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
+
+ga_tracking: G-LD9FH2JMPR
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
