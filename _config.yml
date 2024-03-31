@@ -14,7 +14,6 @@ mermaid:
 
 ga_tracking: G-LD9FH2JMPR
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
-    
 
 
 # Footer content
@@ -25,3 +24,18 @@ footer_content: "Copyright &copy; Jheel Patel."
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+
+collections:
+  coursework:
+    permalink: "/:collection/:path"
+    output: true
+just_the_docs:
+  collections:
+    coursework:
+      name: Master's Coursework
+      nav_fold: true
+      nav_exclude: false
+
+# For copy button on code
+enable_copy_code_button: true
