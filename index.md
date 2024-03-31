@@ -1,35 +1,34 @@
 ---
 title: Home
 layout: home
+permalink: /
+nav_order: 0
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Hey there, I'm Jheel!
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Welcome to my digital corner! 🚀
 
-More specifically, the created site:
+## About Me
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+I am a passionate **Cloud Developer** based in the city of Rochester, NY, currently pursuing a Master's degree in Software Engineering from the Rochester Institute of Technology.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## What I Do
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+My journey in the tech world began with my Bachelor's in Mechanical Engineering from Nirma University. After completing my Bachelor's, I joined Searce as a Cloud Engineering Analyst. Here, I've had the privilege of designing and implementing cloud-native solutions tailored to meet the unique needs of our clients. From optimizing Google Cloud platform infrastructure to automating tedious processes, I'm all about maximizing efficiency and driving results.
 
-To get started with creating a site, simply:
+## Projects That Make Me Tick
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+Here are a few projects that truly represent my passion for innovation:
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+- **Cloud Wellness Assessment Automation:** Enhanced the way we conduct Cloud Wellness assessments by deploying an agile, cloud-native automation solution on Google Cloud. This solution significantly reduced manual efforts by 60-70% while also establishing a more efficient standard for cloud operations.
 
-----
+- **Large Scale Object Storage Migration:** Led a large-scale object storage migration from AWS S3 to Google Cloud Storage. By migrating a whopping 700 TB of data, we achieved significant cost savings and reduced migration time by an impressive 40%.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+- **ITSM - Monitoring Tools Integration:** Architected and implemented a seamless integration solution connecting various monitoring alert sources with our ITSM tool. This initiative streamlined incident handling and boosted operational efficiency.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+## Let's Connect!
+
+I'm always on the lookout for exciting opportunities to collaborate and innovate. Whether you're looking to revolutionize your cloud infrastructure or embark on a transformative digital journey, I'm here to make it happen!
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pateljheeln). Let's turn ideas into reality together!
