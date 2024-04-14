@@ -33,7 +33,7 @@ collections:
 just_the_docs:
   collections:
     coursework:
-      name: Grduate Coursework
+      name: Master's Coursework
       nav_fold: true
       nav_exclude: false
 
