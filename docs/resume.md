@@ -50,8 +50,9 @@ Jul 2017 – Jun 2021
 
 ## SKILLS
 
-- **Interpersonal Skills:** Problem-solving, Teamwork, Agile methodologies, Scrum.
-- **Languages and Frameworks:** Java, Python, C, JavaScript, HTML, CSS (Web development using Node.js/Spring, React).
+- **Software Engineering Process:** Project Management Frameworks (Scrum and OpenUP), Model-Driven Development, Software Design & Architecture.
+- **Programming Languages:** Java, Python, C, JavaScript, HTML, CSS.
+- **Web Development Frameworks:** Backend: Java Spring Boot & Hibernate, Express.js & Sequelize, Flask & SQLAlchemy; Frontend: React.
 - **Tools & Technologies:** Git, Linux, Docker, Kubernetes, Cloud Engineering (Google Cloud and AWS), Terraform, ClickUp, ServiceNow, Freshservice, Jira, Confluence.
 
 ## CERTIFICATIONS
