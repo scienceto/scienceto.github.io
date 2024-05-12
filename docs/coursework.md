@@ -15,3 +15,49 @@ As such, I continue to self-educate and expand my knowledge of computer science 
 
 ![Roadmap](../assets/images/roadmap.png)
 *Self-Study Roadmap*
+
+## Study Material
+
+### Discrete Mathematics
+
+1. Albert R. Meyer, Adam Chlipala. Mathematics For Computer Science. Spring. Massachusetts Institute of Technology: MIT OpenCouseWare, https://ocw.mit.edu/. License: Creative Commons BY-NC-SA.
+2. Michel Goemans, Susan Ruff, Lorenzo Orecchia, Richard Peng. Principles Of Discrete Applied Mathematics. Fall. Massachusetts Institute of Technology: MIT OpenCouseWare, https://ocw.mit.edu/. License: Creative Commons BY-NC-SA.
+
+### Theory of Computation
+
+1. Michael Sipser. Theory Of Computation. Fall. Massachusetts Institute of Technology: MIT OpenCouseWare, https://ocw.mit.edu/. License: Creative Commons BY-NC-SA.
+
+### C/C++ Programming
+
+1. Jesse Dunietz, Geza Kovacs, John Marrero. Introduction To C++. January IAP. Massachusetts Institute of Technology: MIT OpenCouseWare, https://ocw.mit.edu/. License: Creative Commons BY-NC-SA.
+2. Andre Kessler. Effective Programming In C And C++. January IAP. Massachusetts Institute of Technology: MIT OpenCouseWare, https://ocw.mit.edu/. License: Creative Commons BY-NC-SA.
+
+### Algorithms & Problem Solving
+
+1. Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. Introduction to Algorithms. 3rd ed. MIT Press, 2009. ISBN: 9780262033848. Referenced with course [Charles Leiserson, Erik Demaine. Introduction To Algorithms (SMA 5503). Fall. Massachusetts Institute of Technology: MIT OpenCouseWare, https://ocw.mit.edu/. License: Creative Commons BY-NC-SA.]
+
+### Computation Structures (Computer Architecture bottom-up)
+
+1. Chris Terman. Computation Structures. Spring. Massachusetts Institute of Technology: MIT OpenCouseWare, https://ocw.mit.edu/. License: Creative Commons BY-NC-SA.
+
+### Operating Systems
+
+1. [Operating System Tutorial (must verify material wherever needed)](https://www.geeksforgeeks.org/operating-systems/)
+
+### Computer Networks
+
+1. [Computer Network Tutorial (must verify material wherever needed)](https://www.geeksforgeeks.org/computer-network-tutorials/)
+
+### Database Management Systems
+
+1. Samuel Madden, Robert Morris, Michael Stonebraker, Carlo Curino. Database Systems. Fall. Massachusetts Institute of Technology: MIT OpenCouseWare, https://ocw.mit.edu/. License: Creative Commons BY-NC-SA.
+
+### Object-Oriented Programming in Java
+
+1. Kal Rabb. SWEN-601 Software Construction. Rochester Institute of Technology.
+2. Herbert Schildt, Danny Coward. Java: The Complete Reference, Thirteenth Edition. McGraw Hill.
+
+### Java Software Development
+
+1. Antonio Goncalves. Beginning Java EE 7 (Expert Voice in Java). Apress. (is old but still relevant)
+2. Iuliana Cosmina, Rob Harrop, Chris Schaefer, Clarence Ho. Pro Spring 6: An In-Depth Guide to the Spring Framework. Apress.
