@@ -27,15 +27,22 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 
 collections:
-  coursework:
+  grad:
     permalink: "/:collection/:path"
     output: true
+  # undergrad:
+  #   permalink: "/:collection/:path"
+  #   output: true
 just_the_docs:
   collections:
-    coursework:
+    grad:
       name: Master's Coursework
       nav_fold: true
       nav_exclude: false
+    # undergrad:
+    #   name: Bachelor's Coursework
+    #   nav_fold: true
+    #   nav_exclude: false
 
 # For copy button on code
 enable_copy_code_button: true

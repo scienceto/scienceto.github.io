@@ -42,11 +42,11 @@ As such, I continue to self-educate and expand my knowledge of computer science 
 
 ### Operating Systems
 
-1. [Operating System Tutorial (must verify material wherever needed)](https://www.geeksforgeeks.org/operating-systems/)
+1. [Operating System Tutorial (must verify the content wherever needed)](https://www.geeksforgeeks.org/operating-systems/)
 
 ### Computer Networks
 
-1. [Computer Network Tutorial (must verify material wherever needed)](https://www.geeksforgeeks.org/computer-network-tutorials/)
+1. [Computer Network Tutorial (must verify the content wherever needed)](https://www.geeksforgeeks.org/computer-network-tutorials/)
 
 ### Database Management Systems
 
@@ -59,5 +59,5 @@ As such, I continue to self-educate and expand my knowledge of computer science 
 
 ### Java Software Development
 
-1. Antonio Goncalves. Beginning Java EE 7 (Expert Voice in Java). Apress. (is old but still relevant)
+1. Antonio Goncalves. Beginning Java EE 7 (Expert Voice in Java). Apress. (old but still relevant)
 2. Iuliana Cosmina, Rob Harrop, Chris Schaefer, Clarence Ho. Pro Spring 6: An In-Depth Guide to the Spring Framework. Apress.
