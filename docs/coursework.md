@@ -63,5 +63,6 @@ As such, I continue to self-educate and expand my knowledge of computer science 
 
 ### Java Software Development
 
-1. Antonio Goncalves. Beginning Java EE 7 (Expert Voice in Java). Apress. (old but still relevant)
-2. Iuliana Cosmina, Rob Harrop, Chris Schaefer, Clarence Ho. Pro Spring 6: An In-Depth Guide to the Spring Framework. Apress.
+1. The Java EE Tutorial Release 7. Oracle.
+2. Antonio Goncalves. Beginning Java EE 7 (Expert Voice in Java). Apress. (old but still relevant)
+3. Iuliana Cosmina, Rob Harrop, Chris Schaefer, Clarence Ho. Pro Spring 6: An In-Depth Guide to the Spring Framework. Apress.
