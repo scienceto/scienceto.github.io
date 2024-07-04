@@ -44,6 +44,10 @@ As such, I continue to self-educate and expand my knowledge of computer science 
 
 1. [Operating System Tutorial (must verify the content wherever needed)](https://www.geeksforgeeks.org/operating-systems/)
 
+### Compiler Design
+
+1. [Compiler Design Tutorial (must verify the content wherever needed)](https://www.geeksforgeeks.org/compiler-design-tutorials/)
+
 ### Computer Networks
 
 1. [Computer Network Tutorial (must verify the content wherever needed)](https://www.geeksforgeeks.org/computer-network-tutorials/)
