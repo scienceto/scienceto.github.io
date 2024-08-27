@@ -50,10 +50,13 @@ Jul 2017 – Jun 2021
 
 ## SKILLS
 
-- **Software Engineering Process:** Project Management Frameworks (Scrum and OpenUP), Model-Driven Development, Software Design & Architecture.
-- **Programming Languages:** Java, Python, C, JavaScript, HTML, CSS.
-- **Web Development Frameworks:** Backend: Java Spring Boot & Hibernate, Express.js & Sequelize, Flask & SQLAlchemy; Frontend: React.
-- **Tools & Technologies:** Git, Linux, Docker, Kubernetes, Cloud Engineering (Google Cloud and AWS), Terraform, ClickUp, ServiceNow, Freshservice, Jira, Confluence.
+- **Programming Languages:** Java, Python, C, SQL, JavaScript
+- **Web Design:** HTML, CSS
+- **Database Technologies:** PostgreSQL, MySQL, MongoDB (NoSQL)
+- **Operating Systems:** Linux, Windows
+- **Software Engineering:** Scrum, Model-driven Software Development, Object-oriented Design and Development, Prompt Engineering, Data Structures and Algorithms
+- **Other Tools/Frameworks:** Git, Terraform, Docker, Kubernetes, GCP and AWS, NetBeans IDE, GitHub Actions, Java EE 7 (Glassfish implementation), Spring Framework, Hibernate, Express.js Framework, Freshservice, ServiceNow, ClickUp, Jira
+- **Data Science and Machine Learning:** Feedforward Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, PyTorch Library
 
 ## CERTIFICATIONS
 
