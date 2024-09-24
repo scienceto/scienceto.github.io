@@ -13,7 +13,7 @@ This course delves into the fundamental elements of software construction, cover
 
 ### Basic Java Programming
 
-### Object-oriented Programming
+### Object-oriented Programming Concepts
 
 ### Datastructures and Algorithms
 

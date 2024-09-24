@@ -5,6 +5,6 @@ parent: Term 2
 nav_order: 30
 ---
 
-# Software Construction
+# Collaborative Software Development
 
 Test

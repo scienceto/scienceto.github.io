@@ -5,7 +5,7 @@ permalink: /coursework
 nav_order: 20
 ---
 
-# Self-Taught Software Engineer
+# The Fundamentals
 
 Having a bachelor's degree in Mechanical Engineering and then transitioning to Software Engineering required me to undertake extensive research and self-study in computer science foundations such as theory of computation, data structures and algorithms, and so on, as well as fundamental discrete mathematics such as logic theory, proof methods, set theory, graph theory, counting, probability, and so on. 
 
@@ -35,6 +35,7 @@ As such, I continue to self-educate and expand my knowledge of computer science 
 ### Algorithms & Problem Solving
 
 1. Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. Introduction to Algorithms. 3rd ed. MIT Press, 2009. ISBN: 9780262033848. Referenced with course [Charles Leiserson, Erik Demaine. Introduction To Algorithms (SMA 5503). Fall. Massachusetts Institute of Technology: MIT OpenCouseWare, https://ocw.mit.edu/. License: Creative Commons BY-NC-SA.]
+2. Tim Roughgarden. Algorithms Specialization. Stanford, Coursera.
 
 ### Computation Structures (Computer Architecture bottom-up)
 

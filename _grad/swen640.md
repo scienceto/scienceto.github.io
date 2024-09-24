@@ -5,6 +5,6 @@ parent: Term 2
 nav_order: 20
 ---
 
-# Software Construction
+# Research Methods
 
 Test
