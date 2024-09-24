@@ -33,10 +33,17 @@ collections:
   # undergrad:
   #   permalink: "/:collection/:path"
   #   output: true
+  projects:
+    permalink: "/:collection/:path"
+    output: true
 just_the_docs:
   collections:
     grad:
       name: Master's Coursework
+      nav_fold: true
+      nav_exclude: false
+    projects:
+      name: Projects
       nav_fold: true
       nav_exclude: false
     # undergrad:
