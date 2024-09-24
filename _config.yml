@@ -27,23 +27,24 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 
 collections:
+  projects:
+    permalink: "/:collection/:path"
+    output: true
   grad:
     permalink: "/:collection/:path"
     output: true
   # undergrad:
   #   permalink: "/:collection/:path"
   #   output: true
-  projects:
-    permalink: "/:collection/:path"
-    output: true
+  
 just_the_docs:
   collections:
-    grad:
-      name: Master's Coursework
-      nav_fold: true
-      nav_exclude: false
     projects:
       name: Projects
+      nav_fold: true
+      nav_exclude: false
+    grad:
+      name: Master's Coursework
       nav_fold: true
       nav_exclude: false
     # undergrad:
