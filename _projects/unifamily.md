@@ -1,7 +1,6 @@
 ---
 title: UniFamily
 layout: default
-parent: Projects
 nav_order: 10
 ---
 
