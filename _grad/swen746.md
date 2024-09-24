@@ -1,8 +1,7 @@
 ---
 title: Model-Driven Development
 layout: default
-parent: Term 1
-nav_order: 30
+nav_order: 50
 ---
 
 # Model-Driven Development

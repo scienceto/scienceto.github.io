@@ -1,8 +1,7 @@
 ---
 title: Collaborative Software Development
 layout: default
-parent: Term 2
-nav_order: 30
+nav_order: 40
 ---
 
 # Collaborative Software Development

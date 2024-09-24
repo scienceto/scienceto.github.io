@@ -1,7 +1,6 @@
 ---
 title: Software Construction
 layout: default
-parent: Term 1
 nav_order: 10
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: Research Methods
 layout: default
-parent: Term 2
-nav_order: 20
+nav_order: 60
 ---
 
 # Research Methods

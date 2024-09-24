@@ -1,7 +1,6 @@
 ---
 title: Foundations of Software Engineering
 layout: default
-parent: Term 1
 nav_order: 20
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: Neural Networks
 layout: default
-parent: Term 2
-nav_order: 10
+nav_order: 70
 ---
 
 # Neural Networks
